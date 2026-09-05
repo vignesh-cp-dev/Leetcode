@@ -1,9 +1,7 @@
 class Solution {
     List<List<Integer>> ans=new ArrayList<>();
     public void helper(int[] nums,int ind,List<Integer> list,int start){
-// if(ind==nums.length){
     ans.add(new ArrayList<>(list));
-
 for(int i=start;i<nums.length;i++){
     if(i>start && nums[i]==nums[i-1]) continue;
     list.add(nums[i]);
