@@ -30,13 +30,19 @@ Saving leetcode solved solutions all types or approach
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
