@@ -15,6 +15,7 @@ Saving leetcode solved solutions all types or approach
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Saving leetcode solved solutions all types or approach
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +70,5 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
