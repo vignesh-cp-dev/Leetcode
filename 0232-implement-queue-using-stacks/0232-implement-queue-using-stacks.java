@@ -1,13 +1,14 @@
 class MyQueue {
-Stack<Integer> s1=new Stack<>();
-Stack<Integer> s2=new Stack<>();
+    Stack<Integer> s1;
+    Stack<Integer> s2;
     public MyQueue() {
+        s1=new Stack<>();
+        s2=new Stack<>();
     }
     public void push(int x) {
     while(s1.size()!=0){
         s2.push(s1.peek());
         s1.pop();
-        // size--;
     }
     s1.push(x);
     while(s2.size()!=0){
@@ -17,10 +18,7 @@ Stack<Integer> s2=new Stack<>();
     }
     
     public int pop() {
-        int temp=s1.peek();
-            s1.pop(); 
-     return temp;
-  
+    return s1.pop();
     }
     
     public int peek() {
