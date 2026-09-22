@@ -78,4 +78,16 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
