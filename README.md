@@ -47,6 +47,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Algorithm X
@@ -81,6 +82,7 @@ Saving leetcode solved solutions all types or approach
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -93,4 +95,8 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
