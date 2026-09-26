@@ -12,6 +12,7 @@ Saving leetcode solved solutions all types or approach
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -85,6 +86,7 @@ Saving leetcode solved solutions all types or approach
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -99,4 +101,8 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
