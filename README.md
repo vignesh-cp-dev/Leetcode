@@ -13,6 +13,7 @@ Saving leetcode solved solutions all types or approach
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -87,6 +88,7 @@ Saving leetcode solved solutions all types or approach
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
