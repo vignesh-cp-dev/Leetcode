@@ -12,6 +12,7 @@ Saving leetcode solved solutions all types or approach
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -60,6 +61,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -101,6 +103,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -113,4 +116,16 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
