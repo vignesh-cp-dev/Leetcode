@@ -85,6 +85,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ Saving leetcode solved solutions all types or approach
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
