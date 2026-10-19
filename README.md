@@ -8,6 +8,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0039-combination-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
@@ -87,6 +88,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -111,6 +113,7 @@ Saving leetcode solved solutions all types or approach
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
@@ -128,4 +131,12 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
