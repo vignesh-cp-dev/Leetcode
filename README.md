@@ -36,6 +36,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,4 +147,12 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
