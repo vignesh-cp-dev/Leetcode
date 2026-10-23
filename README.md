@@ -36,6 +36,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -155,4 +156,8 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
