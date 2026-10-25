@@ -38,6 +38,7 @@ Saving leetcode solved solutions all types or approach
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
