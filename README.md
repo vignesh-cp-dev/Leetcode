@@ -12,6 +12,7 @@ Saving leetcode solved solutions all types or approach
 | [0051-n-queens](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -36,6 +37,7 @@ Saving leetcode solved solutions all types or approach
 | ------- |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0461-hamming-distance) |
