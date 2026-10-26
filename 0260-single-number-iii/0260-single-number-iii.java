@@ -18,21 +18,39 @@ class Solution {
     // return ans;
 
     //Better
-    // if(n==2) return nums;
-    Arrays.sort(nums);  
-    int i=0,index=0;
-    while(i<n-1){
-        if(nums[i]!=nums[i+1]){
-            ans[index++]=nums[i];
-            i++;
-        }
-        else i+=2;
-        if(index==2) break;
+//     Arrays.sort(nums);  
+//     int i=0,index=0;
+//     while(i<n-1){
+//         if(nums[i]!=nums[i+1]){
+//             ans[index++]=nums[i];
+//             i++;
+//         }
+//         else i+=2;
+//         if(index==2) break;
         
+//     }
+//   if(index<2){
+//     ans[index]=nums[n-1];
+//   }    
+//     return ans;
+
+
+// BIT Manipulation Bucket
+int xorr=0;
+for(int i=0;i<n;i++){
+    xorr^=nums[i];
+}
+int rightmost=(xorr&(xorr-1))^xorr;
+int b1=0,b2=0;
+for(int i=0;i<n;i++){
+    if((nums[i]&rightmost)!=0){
+            b1^=nums[i];
     }
-  if(index<2){
-    ans[index]=nums[n-1];
-  }    
-    return ans;
+    else{
+        b2^=nums[i];
+    }
+}
+return new int[]{b1,b2};
+
     }
 }
