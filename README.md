@@ -20,6 +20,7 @@ Saving leetcode solved solutions all types or approach
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -176,6 +177,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
