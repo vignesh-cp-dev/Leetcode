@@ -215,6 +215,7 @@ Saving leetcode solved solutions all types or approach
 | [0620-not-boring-movies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
