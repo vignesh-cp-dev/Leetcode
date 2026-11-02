@@ -9,6 +9,7 @@ Saving leetcode solved solutions all types or approach
 | [0039-combination-sum](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0056-merge-intervals) |
@@ -163,6 +164,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Data Stream
@@ -185,6 +187,7 @@ Saving leetcode solved solutions all types or approach
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
