@@ -72,6 +72,7 @@ Saving leetcode solved solutions all types or approach
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Algorithm X
 |  |
@@ -113,6 +114,7 @@ Saving leetcode solved solutions all types or approach
 | [0225-implement-stack-using-queues](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
@@ -132,6 +134,7 @@ Saving leetcode solved solutions all types or approach
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,6 +172,7 @@ Saving leetcode solved solutions all types or approach
 | [0045-jump-game-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -193,6 +197,7 @@ Saving leetcode solved solutions all types or approach
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
