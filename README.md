@@ -31,6 +31,7 @@ Saving leetcode solved solutions all types or approach
 | [1004-max-consecutive-ones-iii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vignesh-cp-dev/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Saving leetcode solved solutions all types or approach
 | [0042-trapping-rain-water](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Saving leetcode solved solutions all types or approach
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Saving leetcode solved solutions all types or approach
 | [0435-non-overlapping-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vignesh-cp-dev/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
 | ------- |
