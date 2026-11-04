@@ -13,6 +13,7 @@ Saving leetcode solved solutions all types or approach
 | [0051-n-queens](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vignesh-cp-dev/Leetcode/tree/master/0136-single-number) |
