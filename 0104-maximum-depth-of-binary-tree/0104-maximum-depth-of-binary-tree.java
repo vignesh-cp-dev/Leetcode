@@ -15,23 +15,29 @@
  */
 import java.util.*;
 class Solution {
-    int maxdepth=0,count=0;
-    public void helper(TreeNode root){ 
-        if(root==null)
-        {
-            maxdepth=Math.max(count,maxdepth);
-            return;
-        }
-        count++;
-        helper(root.left);
-        helper(root.right);
-        count--;
-    }
+    // int maxdepth=0,count=0;
+    // public void helper(TreeNode root){ 
+    //     if(root==null)
+    //     {
+    //         maxdepth=Math.max(count,maxdepth);
+    //         return;
+    //     }
+    //     count++;
+    //     helper(root.left);
+    //     helper(root.right);
+    //     count--;
+    // }
     
     public int maxDepth(TreeNode root) {
-        if(root==null) return 0;
-    helper(root);
-    return maxdepth;
+    //     if(root==null) return 0;
+    // helper(root);
+    // return maxdepth;
+
+    if(root==null) return 0;
+    int left=maxDepth(root.left);
+    int right=maxDepth(root.right);
+
+    return 1+Math.max(left,right);
     
     }
 }
