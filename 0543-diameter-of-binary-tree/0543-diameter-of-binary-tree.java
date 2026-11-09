@@ -15,13 +15,12 @@
  */
 import java.util.*;
 class Solution {
-    int diameter=0,len=0;
+    int diameter=0;
     public int helper(TreeNode root){
     if(root==null) return 0;
     int left=helper(root.left);
     int right=helper(root.right);
-    len=left+right;
-    diameter=Math.max(diameter,len);
+    diameter=Math.max(diameter,left+right);
     return 1+Math.max(left,right);
     }
     public int diameterOfBinaryTree(TreeNode root) {
